@@ -8,10 +8,6 @@ conhecimento lógico (Logic Tensor Networks, LTN) em dois cenários:
 
 > T. Carraro, L. Serafini, F. Aiolli. **LTNtorch: PyTorch Implementation of Logic Tensor Networks**.  
 > Journal of Machine Learning Research, 2024. (preprint em https://arxiv.org/abs/2409.16045)
-
-O notebook base utilizado é o `LTNTorch_Fia_catsdogs.ipynb`, agora estendido com uma seção adicional
-para classificação de cães e gatos usando imagens e uma CNN.
-
 ---
 
 ## 1. Visão Geral: LTN e o Artigo
