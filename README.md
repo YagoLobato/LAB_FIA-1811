@@ -9,7 +9,7 @@ conhecimento lógico (Logic Tensor Networks, LTN) em dois cenários:
 > T. Carraro, L. Serafini, F. Aiolli. **LTNtorch: PyTorch Implementation of Logic Tensor Networks**.  
 > Journal of Machine Learning Research, 2024. (preprint em https://arxiv.org/abs/2409.16045)
 
-O notebook base utilizado é o `LTNTorch_Fia.ipynb`, agora estendido com uma seção adicional
+O notebook base utilizado é o `LTNTorch_Fia_catsdogs.ipynb`, agora estendido com uma seção adicional
 para classificação de cães e gatos usando imagens e uma CNN.
 
 ---
@@ -43,7 +43,7 @@ em que um predicado `Dog(x)` é implementado como uma CNN, e a lógica expressa 
 
 ## 2. Estrutura do Notebook
 
-O notebook `LTNTorch_Fia.ipynb` (e a variante `LTNTorch_Fia_catsdogs.ipynb`) está organizado em duas partes principais:
+O notebook `LTNTorch_Fia_catsdogs.ipynb` está organizado em duas partes principais:
 
 ### 2.1. Parte 1 — Exemplo 2D Sintético (Predicado `A(x)`)
 
@@ -316,3 +316,12 @@ pip install torch torchvision pillow LTNtorch kagglehub
 - S. Badreddine, A. d'Avila Garcez, L. Serafini, M. Spranger. **Logic Tensor Networks**, Artificial Intelligence, 303, 2022.
 - Repositório oficial LTNtorch: https://github.com/tommasocarraro/LTNtorch
 - Documentação LTNtorch: https://tommasocarraro.github.io/LTNtorch/
+
+## 5 Alunos autores da atividade
+
+- Yago Lobato — yagobrlobato@icomp.ufam.edu.br  
+- Nathã Barbosa — NathaBarbosa@icomp.ufam.edu.br  
+- Matheus Santarém — matheus.santarem@icomp.ufam.edu.br  
+- Emanuel Andriola — Emanuel.moraes@icomp.ufam.edu.br  
+- Daniel Trindade — daniel.trindade@icomp.ufam.edu.br  
+- Cristiano Cardoso — cristiano.lima@icomp.ufam.edu.br
